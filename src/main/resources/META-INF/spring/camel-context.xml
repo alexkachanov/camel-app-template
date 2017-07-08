@@ -22,11 +22,6 @@
 
 	<camelContext xmlns="http://camel.apache.org/schema/spring">
 
-		<route>
-			<from uri="webcam:spycam?consumer.format=PNG" />
-			<to uri="file:/data_out" />
-		</route>
-
 
 
 	</camelContext>
