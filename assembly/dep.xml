@@ -15,6 +15,10 @@
 			<outputDirectory>.</outputDirectory>
 			<includes>
 				<include>start.bat</include>
+				<include>README*</include>
+				<include>LICENSE*</include>
+				<include>NOTICE*</include>
+				<include>start.bat</include>
 			</includes>
 		</fileSet>
 		
