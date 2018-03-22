@@ -10,9 +10,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>
-		<camel.version>2.19.1</camel.version>
+		<camel.version>2.19.4</camel.version>
+		<spring.version>4.3.11.RELEASE</spring.version>
 		<rhiot.version> 0.1.2</rhiot.version>
-		<spring.version>3.2.0.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
-			<version>1.7.25</version>
+			<version>1.7.22</version>
 		</dependency>
 
 		<dependency>
