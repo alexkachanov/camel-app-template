@@ -10,8 +10,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>
-		<camel.version>2.19.4</camel.version>
-		<spring.version>4.3.11.RELEASE</spring.version>
+		<camel.version>2.21.0</camel.version>
+		<spring.version>4.3.14.RELEASE</spring.version>
 		<rhiot.version> 0.1.2</rhiot.version>
 	</properties>
 
